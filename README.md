@@ -1,8 +1,8 @@
 # IPTV
 Elevate your entertainment with our advanced IPTV service. Stream unlimited live TV, movies, and more on any device, anywhere
-# IPTVPlus - Elevate Your Entertainment
+# IPSMARTY - Elevate Your Entertainment
 
-Welcome to IPTVPlus, your gateway to a new era of television experience. With IPTVPlus, you can enjoy a wide range of live TV channels, on-demand content, and more, all delivered directly over the internet. Say goodbye to cable limitations and hello to limitless entertainment!
+Welcome to IPSMARTY, your gateway to a new era of television experience. With IPSMARTY, you can enjoy a wide range of live TV channels, on-demand content, and more, all delivered directly over the internet. Say goodbye to cable limitations and hello to limitless entertainment!
 
 ## Features
 
@@ -18,11 +18,11 @@ Welcome to IPTVPlus, your gateway to a new era of television experience. With IP
 
 ## Getting Started
 
-1. Sign up for an IPTVPlus account at IPSMARTY (https://iptvkopen-d.store/).
+1. Sign up for an IPSMARTY account at (https://iptvkopen-d.store/).
 
 2. Choose a subscription plan that suits your preferences.
 
-3. Download our IPTV app from your device's app store or access IPTVPlus directly through your web browser.
+3. Download our IPTV app from your device's app store or access IPSMARTY directly through your web browser.
 
 4. Log in using your account credentials and start exploring the world of endless entertainment.
 
